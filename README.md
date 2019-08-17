@@ -32,5 +32,5 @@ This React application keeps track of the user's score. The user's score should 
 - yarn start
 
 ## Screenshot
+Desktop⁩ ▸ ⁨responsive-portfolio⁩ ▸ ⁨assets⁩ ▸ ⁨images⁩
 
-Screen Shot 2019-08-17 at 3.20.39 PM
